@@ -1,0 +1,1 @@
+void set_gpio(int pin, char *etat);
