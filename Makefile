@@ -1,4 +1,4 @@
-#!/bin/bash
+SHELL = /bin/bash
 
 CC=gcc
 CFLAGS=-I.
