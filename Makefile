@@ -1,3 +1,5 @@
+#!/bin/bash
+
 CC=gcc
 CFLAGS=-I.
 
